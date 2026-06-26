@@ -1,0 +1,17 @@
+# CatBoost ve model eğitim kalıntıları 
+catboost_info/
+
+# ham ve gereksiz büyük veri setleri 
+results.csv
+wc_team_alltime_stats.csv
+
+# python ve os sistem kalıntıları 
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# sanal ortam 
+.venv/
+env/
+venv/
