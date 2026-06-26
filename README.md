@@ -32,3 +32,6 @@ A modern, minimalist, end-to-end machine learning-based prediction engine for th
 * **Deployment:** GitHub & Streamlit Community Cloud
 
 ---
+
+## Disclaimer
+This application has been developed for educational and portfolio purposes using open-source datasets. The predictions and probabilities generated here definitely do not constitute investment, betting, or financial advice.
